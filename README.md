@@ -14,7 +14,7 @@
 
 Run: `docker run -it --rm -p 8787:8787 autonomousplane/ai-gateway:latest`
 
-Existing container image in the DockerHub registry: https://hub.docker.com/r/autonomousplane/ai-gateway (get it with docker pull autonomousplane/ai-gateway)
+Existing container image in the DockerHub registry: https://hub.docker.com/r/autonomousplane/ai-gateway (get it with `docker pull autonomousplane/ai-gateway`)
 
 
 #### Route to 250+ LLMs with 1 fast & friendly API
